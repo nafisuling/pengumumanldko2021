@@ -12,8 +12,6 @@ $username = $_SESSION['username'];
 	<link rel="stylesheet" href="styles.css">
 </head>
 <body>
-	<center>
-	<br><br><br>
 	<h1>
 	<div style="color: white;">
 	<div style="font-family: Consolas;">
@@ -28,7 +26,6 @@ $username = $_SESSION['username'];
 	</div>
 	</div>
 	</h1>
-	</center>
 </body>
 <style>
 body {

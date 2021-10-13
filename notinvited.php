@@ -11,9 +11,7 @@ $username = $_SESSION['username'];
 	<title>Not Invited</title>
 	<link rel="stylesheet" href="styles.css">
 </head>
-<body>
-	<center>
-	<br><br><br>
+<body>	
 	<h1>
 	<div style="color: white;">
 	<div style="font-family: Consolas;">
@@ -28,11 +26,10 @@ $username = $_SESSION['username'];
 	</div>
 	</div>
 	</h1>
-	</center>
 </body>
 <style>
 body {
-  background-image: url('notinvited.png');
+  background-image: url('notinvited1.png');
   background-color: black;
   background-repeat: no-repeat;
   background-attachment: fixed;
