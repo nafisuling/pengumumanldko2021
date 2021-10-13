@@ -1,7 +1,14 @@
 <?php
-$host="localhost";
-$user="root";
-$password="";
+//local
+//$host="localhost";
+//$user="root";
+//$password="";
+//$db="RtcRRr0Djc";
+
+//remote
+$host="remotemysql.com";
+$user="RtcRRr0Djc";
+$password="O3Gku8htW9";
 $db="RtcRRr0Djc";
 
 $data=mysqli_connect($host,$user,$password,$db);
