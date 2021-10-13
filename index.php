@@ -1,15 +1,15 @@
 <?php
-//local
-//$host="localhost";
-//$user="root";
-//$password="";
-//$db="user";
+local
+$host="localhost";
+$user="root";
+$password="";
+$db="user";
  
 //remote
-$host="remotemysql.com";
-$user="RtcRRr0Djc";
-$password="O3Gku8htW9";
-$db="RtcRRr0Djc";
+//$host="remotemysql.com";
+//$user="";
+//$password="";
+//$db="RtcRRr0Djc";
  
 session_start();
 
